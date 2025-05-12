@@ -62,3 +62,8 @@ class R_1_1_7_Check{
         }
     }
 }
+class R_1_1_8_Check{
+	public void check(ICPPASTTranslationUnit icpp,String arg)
+	{
+	}
+}
